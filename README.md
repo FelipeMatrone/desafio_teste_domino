@@ -16,3 +16,7 @@ npm test
 
 Os testes cobrem criação da partida, encaixe, inversão, lados da mesa, passe, recusas
 e encerramento.
+
+## Colaborador
+
+- Felipe Matrone — implementação e casos de teste.
